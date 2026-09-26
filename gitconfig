@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = feliciasw@gmail.com
+	name = Felicia Stephanie Wuller
